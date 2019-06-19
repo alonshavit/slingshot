@@ -21,7 +21,7 @@ Aragon apps deployed on the testnet including the UI for electing Experts, fund 
 
 ## Deliverables And Timeline
 
-The development timeline regards each deliverable:
+The development timeline regarding each deliverable:
 
 <table>
   <tr>
