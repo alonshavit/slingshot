@@ -9,8 +9,8 @@
 
 
 
-*   **Experts gild** - a small group of industry experts with the following responsibilities: vote on each batch winning team, vote on further funding of teams.
-*   **Production gild** -  a small group of community managers in charge of the DAO’s physical events, community relations and electing the Experts gild.
+*   **Experts guild** - a small group of industry experts with the following responsibilities: vote on each batch winning team, vote on further funding of teams.
+*   **Production guild** -  a small group of community managers in charge of the DAO’s physical events, community relations and electing the Experts guild.
 *   **Funding**- will enable lead protocol partners (LPPs) to create recurring token contributions (based on the EIP 1337 standard, similar to [gitcoin grants](https://gitcoin.co/grants/)) to fund their chosen teams in a transparante and secured way (for both sides). 
 *   **Staking** - will enable the public community to stake on the winning teams.
 
@@ -37,7 +37,7 @@ The development timeline regarding each deliverable:
     23.6.19 - 30.6.19
    </td>
    <td>
-Production gild + Experts gild -  UI and contracts implementation for authorizing and electing the Production and Experts gilds.
+Production guild + Experts guild -  UI and contracts implementation for authorizing and electing the Production and Experts guilds.
 
 
    </td>
@@ -50,9 +50,9 @@ Production gild + Experts gild -  UI and contracts implementation for authorizin
     Voting: 
 <ol>
 
-<li>Enabling the Production gild to elect new Experts (and dispatch experts).
+<li>Enabling the Production guild to elect new Experts (and dispatch experts).
 
-<li>Enabling the experts gild to vote on the winning teams during the designated time frame.
+<li>Enabling the experts guild to vote on the winning teams during the designated time frame.
 </li>
 </ol>
    </td>
@@ -62,7 +62,7 @@ Production gild + Experts gild -  UI and contracts implementation for authorizin
     29.7.19 - 19.8.19                   
    </td>
    <td>
-Funding - will enable lead protocol partners (LPPs) to create recurring token contributions to the teams of their choice with the option of filing a dispute in the case of misbehavior by a team. The dispute claim will be concluded by a vote on the Experts gild.
+Funding - will enable lead protocol partners (LPPs) to create recurring token contributions to the teams of their choice with the option of filing a dispute in the case of misbehavior by a team. The dispute claim will be concluded by a vote on the Experts guild.
 
 
    </td>
