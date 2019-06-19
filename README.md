@@ -16,10 +16,10 @@
 
 
 #### **Integration With Aragon**
-Aragon apps deployed on the testnet including the UI to conveniently elect Experts, fund projects and vote for the winning teams.
+Aragon apps deployed on the testnet including the UI for electing Experts, fund projects and vote for the winning teams.
 
 
-## Deliverables and timeline
+## Deliverables And Timeline
 
 The development timeline regards each deliverable:
 
